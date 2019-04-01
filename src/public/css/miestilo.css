@@ -1,0 +1,51 @@
+html {
+    min-height: 100%;
+    position: relative;
+  }
+body{
+    background: #8E2DE2;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+
+    margin-bottom: 40px;
+}
+section{
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+footer {
+    position:absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+img{
+
+    width: 500px;
+     height:300px;
+     margin-right:20 px; 
+
+}
+
+h2{
+    text-align: center;
+    color: rgb(138, 199, 251);
+
+}
+h1{
+    text-align: center;
+    color:#FFF;
+
+}
+p{
+    text-align: justify;
+    color: aliceblue;  
+    size: 12;
+}
